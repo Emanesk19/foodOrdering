@@ -1,0 +1,1621 @@
+{
+  "categories": {
+    "breakfast": {
+      "name": "\"Breakfast\""
+    },
+    "burger": {
+      "name": "\"Burger\""
+    },
+    "dessert": {
+      "name": "\"Dessert\""
+    },
+    "drink": {
+      "name": "\"Drink\""
+    },
+    "pasta": {
+      "name": "\"Pasta\""
+    },
+    "pizza": {
+      "name": "\"Pizza\""
+    },
+    "rice": {
+      "name": "\"Rice\""
+    },
+    "salad": {
+      "name": "\"Salad\""
+    },
+    "sandwich": {
+      "name": "\"Sandwich\""
+    },
+    "sides": {
+      "name": "\"Sides\""
+    },
+    "soup": {
+      "name": "\"Soup\""
+    },
+    "specials": {
+      "name": "\"Specials\""
+    },
+    "sushi": {
+      "name": "\"Sushi\""
+    }
+  },
+  "products": {
+    "-NTEBvba8Bwi5kzLGgpo": {
+      "calories": "200",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/avocadoToastPoached.jpg",
+      "orders": "3",
+      "price": "20",
+      "title": "Avocado Toast "
+    },
+    "-NTEC8Q43P_fVZFKZd0f": {
+      "calories": "300",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/blueSmoothieBowl.png",
+      "orders": "6",
+      "price": "24",
+      "title": "Smoothie Bowl"
+    },
+    "-NTEDmwSO2Dn4ept_4a8": {
+      "calories": "400",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/cinnamonRaisinGranola.png",
+      "orders": "10",
+      "price": "19",
+      "title": "Raisin Granola "
+    },
+    "-NTEE5eG_foQNilFoNO7": {
+      "calories": "250",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/chessySpinachPockets.jpg",
+      "orders": "15",
+      "price": "30",
+      "title": "Cheesy-Spinach Pocket"
+    },
+    "-NTEEWPAfyQ5iVWKpEBg": {
+      "calories": "550",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/creamWaffles.png",
+      "orders": "30",
+      "price": "25",
+      "title": "Cream Waffle"
+    },
+    "-NTEFE9Rlz5NW_pAI7cA": {
+      "calories": "500",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/custardYoghurtToast.jpg",
+      "orders": "20",
+      "price": "25",
+      "title": "Custard Yoghurt Toast"
+    },
+    "-NTEFaQc3pqhh1Xp1Qb6": {
+      "calories": "400",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/dragonFruitAcacia.png",
+      "orders": "13",
+      "price": "75",
+      "title": "Dragon-fruit Acacia Bowl"
+    },
+    "-NTEG6iDhWH5qOSdb9wr": {
+      "calories": "200",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/eggMuffinCup.jpg",
+      "orders": "13",
+      "price": "10",
+      "title": "Egg Muffin Cup"
+    },
+    "-NTEGPZ8bmPIKbvxvEdi": {
+      "calories": "400",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/frenchCroissant.png",
+      "orders": "15",
+      "price": "20",
+      "title": "Croissant "
+    },
+    "-NTEGb3kz0MfwbSAflB5": {
+      "calories": "190",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/frenchToast.png",
+      "orders": "55",
+      "price": "19",
+      "title": "French Toast"
+    },
+    "-NTEGtEmVcgZUZalSaB2": {
+      "calories": "100",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/miniPancakes.png",
+      "orders": "25",
+      "price": "9",
+      "title": "Mini Pancakes"
+    },
+    "-NTEHCHDgWLf1zNlmrIq": {
+      "calories": "210",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/omelet.jpg",
+      "orders": "65",
+      "price": "15",
+      "title": "Omelet"
+    },
+    "-NTEHXbFrx8aDEtg2Tp6": {
+      "calories": "310",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/proteinSmoothies.jpg",
+      "orders": "33",
+      "price": "13",
+      "title": "Protein Smothie"
+    },
+    "-NTEIQXKjquvIKDhI9xJ": {
+      "calories": "430",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/shakshouka.jpg",
+      "orders": "39",
+      "price": "13",
+      "title": "Shakshouka"
+    },
+    "-NTEIgFS6mTzkW7T4fgN": {
+      "calories": "130",
+      "category": "Breakfast",
+      "imageUrl": "assets/breakfast/superAntioxidantSmoothie.jpg",
+      "orders": "49",
+      "price": "23",
+      "title": "Antioxidant Smoothie"
+    },
+    "-NTEJ5ry-qBZFz1N2QJH": {
+      "calories": "410",
+      "category": "Breakfast",
+      "imageUrl": "assets/tropicalAcaciaBowl.png",
+      "orders": "13",
+      "price": "29",
+      "title": "Tropical Acacia Bowl"
+    },
+    "-NTEJUNjiqRD7O6YuBUA": {
+      "calories": "495",
+      "category": "Burger",
+      "imageUrl": "assets/burger/BeansBurger.jpg",
+      "orders": "15",
+      "price": "20",
+      "title": "Beans Burger"
+    },
+    "-NTEJr9VwqqrdajKfvrx": {
+      "calories": "295",
+      "category": "Burger",
+      "imageUrl": "assets/burger/SmokeyBBQTripleBig.png",
+      "orders": "13",
+      "price": "25",
+      "title": "Smokey BBQ Triple Big"
+    },
+    "-NTELK0KKCBpxbYqNna_": {
+      "calories": "295",
+      "category": "Burger",
+      "imageUrl": "assets/burger/salmonBurger.png",
+      "orders": "11",
+      "price": "25",
+      "title": "Salmon Burger"
+    },
+    "-NTELpEdtBgO0-2Cfwim": {
+      "calories": "175",
+      "category": "Burger",
+      "imageUrl": "assets/burger/lettuceBurger.jpg",
+      "orders": "21",
+      "price": "17",
+      "title": "Lettuce Burger"
+    },
+    "-NTEMHgFpRm4p1ZrSG24": {
+      "calories": "375",
+      "category": "Burger",
+      "imageUrl": "assets/burger/veggieBurger.jpg",
+      "orders": "51",
+      "price": "13",
+      "title": "Veggie Burger"
+    },
+    "-NTEMSqfn8Nu4xUE5ncG": {
+      "calories": "700",
+      "category": "Burger",
+      "imageUrl": "assets/burger/doubleDouble.jpg",
+      "orders": "53",
+      "price": "30",
+      "title": "Double Double"
+    },
+    "-NTEMin5GAI3fdPeVQuN": {
+      "calories": "850",
+      "category": "Burger",
+      "imageUrl": "assets/burger/doubleBurger.jpg",
+      "orders": "58",
+      "price": "40",
+      "title": "Double Burger"
+    },
+    "-NTENI3ojfg3DNsNqgW4": {
+      "calories": "520",
+      "category": "Burger",
+      "imageUrl": "assets/burger/eggPickleBurger.jpg",
+      "orders": "49",
+      "price": "40",
+      "title": "Egg Pickle Burger"
+    },
+    "-NTEN_-4QfBQStmzMQSt": {
+      "calories": "220",
+      "category": "Burger",
+      "imageUrl": "assets/burger/sweetPotatoBurger.jpg",
+      "orders": "77",
+      "price": "36",
+      "title": "Sweet Potato Burger"
+    },
+    "-NTENtMOhvKtOYs94ySQ": {
+      "calories": "350",
+      "category": "Burger",
+      "imageUrl": "assets/burger/grilledWhiteFishBurger.jpg",
+      "orders": "57",
+      "price": "40",
+      "title": "Grilled White Fish Burger"
+    },
+    "-NTEOI6o88qowDDox6Oq": {
+      "calories": "280",
+      "category": "Burger",
+      "imageUrl": "assets/burger/hamBurger.jpg",
+      "orders": "20",
+      "price": "28",
+      "title": "HamBurger"
+    },
+    "-NTEO_WEYJ6nRB2tJrxm": {
+      "calories": "200",
+      "category": "Burger",
+      "imageUrl": "assets/burger/wholeWheatBurger.jpg",
+      "orders": "25",
+      "price": "28",
+      "title": "Wholewheat Burger"
+    },
+    "-NTEOoLc-TtDGWspoKt7": {
+      "calories": "400",
+      "category": "Burger",
+      "imageUrl": "assets/burger/MiniBurgers.jpg",
+      "orders": "47",
+      "price": "16",
+      "title": "Mini Burgers"
+    },
+    "-NTEQoXkthGsqz8AtfoZ": {
+      "calories": "1000",
+      "category": "Burger",
+      "imageUrl": "assets/burger/MonsterDoubleThickburger.jpg",
+      "orders": "47",
+      "price": "24",
+      "title": "Monster Double Thick Burger"
+    },
+    "-NTETRNTP7tMFKboYIfV": {
+      "calories": "1000",
+      "category": "Burger",
+      "imageUrl": "assets/burger/shrimpBurger.jpg",
+      "orders": "20",
+      "price": "35",
+      "title": "Shrimp Burger"
+    },
+    "-NTEVlzelY46Q2zvAkSJ": {
+      "calories": "250",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/appleCrumble.jpg",
+      "orders": "33",
+      "price": "13",
+      "title": "Apple Crumble "
+    },
+    "-NTEWFoy8ror9ci9kGZI": {
+      "calories": "350",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/Baklava.png",
+      "orders": "33",
+      "price": "13",
+      "title": "Baklava"
+    },
+    "-NTEW_RHXDQ0jhrRoL4U": {
+      "calories": "350",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/doubleChocolate.png",
+      "orders": "53",
+      "price": "23",
+      "title": "Double Chocolate Cake"
+    },
+    "-NTEX7ccPtWKtNXee5YZ": {
+      "calories": "390",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/cakeLava.png",
+      "orders": "20",
+      "price": "23",
+      "title": "Cake Lava"
+    },
+    "-NTEXexOTei0kI6YEOwU": {
+      "calories": "490",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/cherryPie.png",
+      "orders": "20",
+      "price": "35",
+      "title": "Cherry Pie"
+    },
+    "-NTEXrvEmeVVZDw-NXAp": {
+      "calories": "400",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/brownies.jpg",
+      "orders": "25",
+      "price": "15",
+      "title": "Browny"
+    },
+    "-NTEY6n3MxMlUwA5O0p-": {
+      "calories": "200",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/lemonMeringuePie.png",
+      "orders": "25",
+      "price": "17",
+      "title": "Lemon Meringue Pie"
+    },
+    "-NTEYl6b52WUjw2lE6yw": {
+      "calories": "420",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/tiramisu.png",
+      "orders": "22",
+      "price": "11",
+      "title": "Tiramisu"
+    },
+    "-NTEZ48xQ-bu08d5hTY5": {
+      "calories": "620",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/rafaelloCake.png",
+      "orders": "72",
+      "price": "30",
+      "title": "Rafaello Cake "
+    },
+    "-NTEZLqfAvwT5h9zJ5bJ": {
+      "calories": "520",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/ressesCup.png",
+      "orders": "102",
+      "price": "50",
+      "title": "Resses Giant Cup"
+    },
+    "-NTEZkvGeNdTZNlUeSzE": {
+      "calories": "500",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/redVelevet.png",
+      "orders": "102",
+      "price": "30",
+      "title": "Red Velvet "
+    },
+    "-NTEZyKhLSi9pWZnFKXG": {
+      "calories": "50",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/coatedStrawberries.png",
+      "orders": "102",
+      "price": "10",
+      "title": "Chocolate Coated Strawberries"
+    },
+    "-NTE_jkE-d-9yaybfK2m": {
+      "calories": "70",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/cakePops.png",
+      "orders": "200",
+      "price": "20",
+      "title": "CakePops"
+    },
+    "-NTEa678TADXOQJ-ygnG": {
+      "calories": "300",
+      "category": "Dessert ",
+      "imageUrl": "assets/dessert/cookieDough.png",
+      "orders": "200",
+      "price": "50",
+      "title": "Cookie Dough"
+    },
+    "-NTEajl1dXAHdiK6ZwuE": {
+      "calories": "140",
+      "category": "Dessert ",
+      "imageUrl": "assets/tropicalFruitSalad.png",
+      "orders": "100",
+      "price": "40",
+      "title": "Tropical Fruit Salad "
+    },
+    "-NTEdvKLeQtT794_pxfx": {
+      "calories": "150",
+      "category": "Drink",
+      "imageUrl": "assets/drink/antioxidants.png",
+      "orders": "130",
+      "price": "50",
+      "title": "Antioxidant "
+    },
+    "-NTEgZ18-qUzrFgZdTiO": {
+      "calories": "5",
+      "category": "Drink",
+      "imageUrl": "assets/drink/blackCoffee.png",
+      "orders": "10",
+      "price": "8",
+      "title": "Black Coffee "
+    },
+    "-NTEhC8jJuUwuDJ3mMc1": {
+      "calories": "55",
+      "category": "Drink",
+      "imageUrl": "assets/drink/bobaTea.png",
+      "orders": "15",
+      "price": "13",
+      "title": "Boba Tea"
+    },
+    "-NTEhqjnZOflG5_LVQ7f": {
+      "calories": "500",
+      "category": "Drink",
+      "imageUrl": "assets/drink/chocolateMilkShake.png",
+      "orders": "25",
+      "price": "21",
+      "title": "Chocolate Milkshake"
+    },
+    "-NTEiB31Ug96-d5yC6nT": {
+      "calories": "110",
+      "category": "Drink",
+      "imageUrl": "assets/drink/tripleBerry.jpg",
+      "orders": "45",
+      "price": "51",
+      "title": "Triple Berry"
+    },
+    "-NTEiQpAMHnH9CXER4bF": {
+      "calories": "0",
+      "category": "Drink",
+      "imageUrl": "assets/drink/greenTea.png",
+      "orders": "15",
+      "price": "21",
+      "title": "Green Tea"
+    },
+    "-NTEikAbzihcieRpHnSw": {
+      "calories": "127",
+      "category": "Drink",
+      "imageUrl": "assets/drink/kiwi.png",
+      "orders": "79",
+      "price": "19",
+      "title": "Kiwi Juice"
+    },
+    "-NTEiusySf411ecPZBQQ": {
+      "calories": "17",
+      "category": "Drink",
+      "imageUrl": "assets/drink/longIslandIcedTea.png",
+      "orders": "20",
+      "price": "13",
+      "title": "Island Iced Tea"
+    },
+    "-NTEjbxwkBfULNx0ppnZ": {
+      "calories": "170",
+      "category": "Drink",
+      "imageUrl": "assets/drink/mangoJuice.png",
+      "orders": "411",
+      "price": "55",
+      "title": "Mango Juice"
+    },
+    "-NTEkIdwdLNJfFh-ourH": {
+      "calories": "50",
+      "category": "Drink",
+      "imageUrl": "assets/drink/matcha.png",
+      "orders": "130",
+      "price": "20",
+      "title": "Matcha"
+    },
+    "-NTEk_Fnfbl2SLwfMTRU": {
+      "calories": "70",
+      "category": "Drink",
+      "imageUrl": "assets/drink/milshake.png",
+      "orders": "130",
+      "price": "21",
+      "title": "Milkshake"
+    },
+    "-NTEkjY9zP8J-9HLpmZE": {
+      "calories": "70",
+      "category": "Drink",
+      "imageUrl": "assets/drink/passionFruit.png",
+      "orders": "80",
+      "price": "21",
+      "title": "Passion-fruit "
+    },
+    "-NTEkwVMDFJs1rkK9pIR": {
+      "calories": "90",
+      "category": "Drink",
+      "imageUrl": "assets/drink/pomegranate.png",
+      "orders": "300",
+      "price": "21",
+      "title": "Pomegranate"
+    },
+    "-NTElMd-pyYCZoPtvjhA": {
+      "calories": "300",
+      "category": "Drink",
+      "imageUrl": "assets/drink/chocolateRim.jpg",
+      "orders": "120",
+      "price": "31",
+      "title": "Chocolate Smoothie"
+    },
+    "-NTEm495WC2yGHeu-hg0": {
+      "calories": "350",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/BavetteSpicy.jpg",
+      "orders": "90",
+      "price": "37",
+      "title": "Bavette Spicy"
+    },
+    "-NTEmLRC6iL57Gt7OIy6": {
+      "calories": "300",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/macoroni.png",
+      "orders": "100",
+      "price": "40",
+      "title": "Macoroni Salad"
+    },
+    "-NTEmZz6Zv2T3lVOyH5m": {
+      "calories": "500",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/macAndCheese.png",
+      "orders": "40",
+      "price": "70",
+      "title": "Mac & Cheese"
+    },
+    "-NTEoDt4G5OtUo_RFFCv": {
+      "calories": "429",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/meatCheessePAsta.jpg",
+      "orders": "43",
+      "price": "40",
+      "title": "Cheesy Meat Pasta"
+    },
+    "-NTEoTDGRTf52IQ-XZwC": {
+      "calories": "325",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/MozarellaPenne.png",
+      "orders": "52",
+      "price": "23",
+      "title": "Mozarella Penne"
+    },
+    "-NTEomiysWxrbJJLtSwQ": {
+      "calories": "195",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/pesto.jpg",
+      "orders": "105",
+      "price": "23",
+      "title": "Pesto"
+    },
+    "-NTEp3MgCz24i9AAEq63": {
+      "calories": "239",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/ravioliBeef.png",
+      "orders": "35",
+      "price": "33",
+      "title": "Ravioli Beef"
+    },
+    "-NTEpHSKoNATT6UTMybq": {
+      "calories": "169",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/shrimpPenne.jpg",
+      "orders": "95",
+      "price": "46",
+      "title": "Shrimp Penne"
+    },
+    "-NTEqlKr4YIT6_vp6oNk": {
+      "calories": "439",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/specialBakedMacoroni.jpg",
+      "orders": "75",
+      "price": "36",
+      "title": "Special Baked Macaroni"
+    },
+    "-NTErJiRxaHBXqfY0Qql": {
+      "calories": "489",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/specialLasagna.jpg",
+      "orders": "105",
+      "price": "44",
+      "title": "Special Lasagna "
+    },
+    "-NTEr_KIMXfh3B5kTfrF": {
+      "calories": "489",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/spicyMacoroni.jpg",
+      "orders": "95",
+      "price": "44",
+      "title": "Spicy Macoroni"
+    },
+    "-NTEro3ta5N69s4BcKE5": {
+      "calories": "289",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/spicyRamen.jpg",
+      "orders": "500",
+      "price": "64",
+      "title": "Spicy Ramen"
+    },
+    "-NTEs0dd7B1ec6JAqb5r": {
+      "calories": "160",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/tomatoFusilli.jpg",
+      "orders": "350",
+      "price": "54",
+      "title": "Tomato Fusilli"
+    },
+    "-NTEsArqElq0MV4dLMr0": {
+      "calories": "260",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/tomatoSauceSpaghetti.jpg",
+      "orders": "330",
+      "price": "52",
+      "title": "Tomato Sauce Spaghetti "
+    },
+    "-NTEsO5Sssy4JvHRUPmx": {
+      "calories": "200",
+      "category": "Pasta",
+      "imageUrl": "assets/pasta/WholeWeatPAsta.jpg",
+      "orders": "258",
+      "price": "52",
+      "title": "Wholewheat Pasta"
+    },
+    "-NTEsbJmyrmP8d6Gl5C0": {
+      "calories": "290",
+      "category": "Pasta",
+      "imageUrl": "assets/spicyKoreanNoodles.jpg",
+      "orders": "219",
+      "price": "18",
+      "title": "Spicy Korean Noodle"
+    },
+    "-NTF3vL2y71iftidAtNI": {
+      "calories": "190",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/airfriedPizzas.jpg",
+      "orders": "910",
+      "price": "38",
+      "title": "Air fried Pizza"
+    },
+    "-NTF4BM37Q7IpC3TI2JD": {
+      "calories": "132",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/spicyPizzas.jpg",
+      "orders": "100",
+      "price": "68",
+      "title": "Spicy Pizza"
+    },
+    "-NTF4cGGx1iETVj6Y4IK": {
+      "calories": "172",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/baguetteGoodness.jpg",
+      "orders": "410",
+      "price": "40",
+      "title": "Baguette Goodness "
+    },
+    "-NTF4qdo5yycauIul6ul": {
+      "calories": "70",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/cauliflowerCrust.jpg",
+      "orders": "220",
+      "price": "44",
+      "title": "Cauliflower crust pizza"
+    },
+    "-NTF4y-iSm5pFE_bo5O-": {
+      "calories": "90",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/chickpeaPizza.jpg",
+      "orders": "220",
+      "price": "49",
+      "title": "Chickpea pizza"
+    },
+    "-NTF57NyEqVgVU1X6QyS": {
+      "calories": "110",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/coloredPizza.jpg",
+      "orders": "910",
+      "price": "39",
+      "title": "Colored pizza"
+    },
+    "-NTF6769VQDKIgxhfgbD": {
+      "calories": "180",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/featspinach.jpg",
+      "orders": "340",
+      "price": "23",
+      "title": "Feta-Spinach pizza"
+    },
+    "-NTF6ZDzwPpiThSjfj8d": {
+      "calories": "480",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/heartShaped.jpg",
+      "orders": "405",
+      "price": "23",
+      "title": "Heart Shaped Pizza"
+    },
+    "-NTF6i6V-fvPRbiKp3av": {
+      "calories": "400",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/italianStyle.png",
+      "orders": "405",
+      "price": "30",
+      "title": "Italian Style Pizza"
+    },
+    "-NTF6uwKKS9Po_WsH6r-": {
+      "calories": "500",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/Margherita.png",
+      "orders": "45",
+      "price": "34",
+      "title": "Margherita Pizza"
+    },
+    "-NTF7ALK0f28AOSLwRXs": {
+      "calories": "80",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/olivesMushroom.jpg",
+      "orders": "12",
+      "price": "30",
+      "title": "Olive Mushroom Pizza"
+    },
+    "-NTF7QAxQY2cYdgKvvon": {
+      "calories": "270",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/pepperoni.jpg",
+      "orders": "62",
+      "price": "30",
+      "title": "Pepperoni Pizza"
+    },
+    "-NTFCpbN6Q9gVxeG093u": {
+      "calories": "250",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/vegetablePizza.jpg",
+      "orders": "42",
+      "price": "34",
+      "title": "Vegetable Pizza"
+    },
+    "-NTFDc1fgrmJAi_ET-49": {
+      "calories": "170",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/wholeWheatCrust.png",
+      "orders": "32",
+      "price": "14",
+      "title": "Wholewheat Crust"
+    },
+    "-NTFEP1H2PUFQMlD-lTz": {
+      "calories": "190",
+      "category": "Pizza",
+      "imageUrl": "assets/pizza/Supreme.jpg",
+      "orders": "29",
+      "price": "14",
+      "title": "Supreme Pizza"
+    },
+    "-NTFF4dtVUGdx05Y8UL5": {
+      "calories": "450",
+      "category": "Rice",
+      "imageUrl": "assets/rice/arabicLAmRice.jpg",
+      "orders": "119",
+      "price": "34",
+      "title": "Arabic Lamb Rice"
+    },
+    "-NTFFh5qVriAvU607-r_": {
+      "calories": "455",
+      "category": "Rice",
+      "imageUrl": "assets/rice/asianRice.png",
+      "orders": "90",
+      "price": "53",
+      "title": "Asian Rice"
+    },
+    "-NTFGB6eD8EvUwKXOuIj": {
+      "calories": "155",
+      "category": "Rice",
+      "imageUrl": "assets/rice/bbqRice.png",
+      "orders": "30",
+      "price": "53",
+      "title": "BBQ Rice"
+    },
+    "-NTFGSTH513-WT239mYb": {
+      "calories": "175",
+      "category": "Rice",
+      "imageUrl": "assets/rice/bean.jpg",
+      "orders": "40",
+      "price": "53",
+      "title": "Bean & Rice"
+    },
+    "-NTFH89iNpcByD8weGgg": {
+      "calories": "185",
+      "category": "Rice",
+      "imageUrl": "assets/rice/riceSalad.jpg",
+      "orders": "50",
+      "price": "53",
+      "title": "Rice Salad"
+    },
+    "-NTFHPDVOV9uTOCYgToQ": {
+      "calories": "250",
+      "category": "Rice",
+      "imageUrl": "assets/rice/chickenBuffaloRice.jpg",
+      "orders": "150",
+      "price": "43",
+      "title": "Chicken Buffalo Rice "
+    },
+    "-NTFHdQ7VXwoDHznpEYz": {
+      "calories": "270",
+      "category": "Rice",
+      "imageUrl": "assets/rice/yemeniRice.jpg",
+      "orders": "190",
+      "price": "14",
+      "title": "Yemeni Style Rice "
+    },
+    "-NTFHzc3IlTB9_OH-l67": {
+      "calories": "370",
+      "category": "Rice",
+      "imageUrl": "assets/rice/peaMintRice.jpg",
+      "orders": "490",
+      "price": "11",
+      "title": "Pea Mint Rice "
+    },
+    "-NTFIH9Epb1NXgHECe3h": {
+      "calories": "480",
+      "category": "Rice",
+      "imageUrl": "assets/rice/curryRice.png",
+      "orders": "290",
+      "price": "11",
+      "title": "Curry "
+    },
+    "-NTFIW1Y3a4uI4EZGjpV": {
+      "calories": "170",
+      "category": "Rice",
+      "imageUrl": "assets/rice/friedRice.jpg",
+      "orders": "390",
+      "price": "21",
+      "title": "Fried Rice "
+    },
+    "-NTFIhhxdGxesyPduH6V": {
+      "calories": "173",
+      "category": "Rice",
+      "imageUrl": "assets/rice/healthyRice.png",
+      "orders": "122",
+      "price": "41",
+      "title": "Healthy Rice "
+    },
+    "-NTFIzuY5pg9iG-ZAZK3": {
+      "calories": "273",
+      "category": "Rice",
+      "imageUrl": "assets/rice/indianRice.jpg",
+      "orders": "12",
+      "price": "32",
+      "title": "Indian Style Rice "
+    },
+    "-NTFJJmDm3e_XibuwmVj": {
+      "calories": "390",
+      "category": "Rice",
+      "imageUrl": "assets/rice/specialChickenMasala.jpg",
+      "orders": "62",
+      "price": "39",
+      "title": "Chicken Masala "
+    },
+    "-NTFJi8_GBluv3hdz-8s": {
+      "calories": "190",
+      "category": "Rice",
+      "imageUrl": "assets/rice/jalapenoRice.jpg",
+      "orders": "42",
+      "price": "20",
+      "title": "Jalapeno Rice"
+    },
+    "-NTFK3-x9jeEdXcoEG_5": {
+      "calories": "390",
+      "category": "Rice",
+      "imageUrl": "assets/rice/jasmineRice.jpg",
+      "orders": "70",
+      "price": "27",
+      "title": "Jasmine Rice"
+    },
+    "-NTFL-ICKllZGCQa5vJx": {
+      "calories": "190",
+      "category": "Salad",
+      "imageUrl": "assets/salads/asparagusStrawberrySalad.jpg",
+      "orders": "20",
+      "price": "17",
+      "title": "Asparagus Strawberry Salad"
+    },
+    "-NTFLQj1O0iWoCXffkTe": {
+      "calories": "150",
+      "category": "Salad",
+      "imageUrl": "assets/salads/bbqChickenSalad.png",
+      "orders": "22",
+      "price": "16",
+      "title": "BBQ Chicken Salad"
+    },
+    "-NTFLtj0wbNEJPU3-kBO": {
+      "calories": "140",
+      "category": "Salad",
+      "imageUrl": "assets/salads/CAesarSalad.png",
+      "orders": "23",
+      "price": "17",
+      "title": "Caesar Salad"
+    },
+    "-NTFMIzPSTZOT8YtbXqV": {
+      "calories": "130",
+      "category": "Salad",
+      "imageUrl": "assets/salads/chickpeaSalad.jpg",
+      "orders": "25",
+      "price": "16",
+      "title": "Chickpea Salad"
+    },
+    "-NTFMfR2K629zumRQ_ds": {
+      "calories": "50",
+      "category": "Salad",
+      "imageUrl": "assets/salads/detoxSalad.png",
+      "orders": "26",
+      "price": "15",
+      "title": "Detox Salad"
+    },
+    "-NTFMoTpmxyCoLpHq7hO": {
+      "calories": "130",
+      "category": "Salad",
+      "imageUrl": "assets/salads/Fruitysalad.jpg",
+      "orders": "27",
+      "price": "14",
+      "title": "Fruity Salad"
+    },
+    "-NTFNWVVEoYq9Po6lXDJ": {
+      "calories": "180",
+      "category": "Salad",
+      "imageUrl": "assets/salads/GarlickyTomatoMozarella.png",
+      "orders": "29",
+      "price": "17",
+      "title": "Garlicky Tomato Salad"
+    },
+    "-NTFNifcVfgs5zkvb8EW": {
+      "calories": "200",
+      "category": "Salad",
+      "imageUrl": "assets/salads/greenGoddess.jpg",
+      "orders": "39",
+      "price": "16",
+      "title": "Green Goddess"
+    },
+    "-NTFONHh4iNQfXlysunk": {
+      "calories": "200",
+      "category": "Salad",
+      "imageUrl": "assets/salads/healthBowl.jpg",
+      "orders": "39",
+      "price": "14",
+      "title": "Health Bowl"
+    },
+    "-NTFOqecYz1eJtznNsw4": {
+      "calories": "210",
+      "category": "Salad",
+      "imageUrl": "assets/salads/kalePoppySeed.jpg",
+      "orders": "36",
+      "price": "11",
+      "title": "Poppy seed Kale"
+    },
+    "-NTFP3PnqqNqmJxxVwVj": {
+      "calories": "250",
+      "category": "Salad",
+      "imageUrl": "assets/salads/lettcueToast.jpg",
+      "orders": "40",
+      "price": "15",
+      "title": "Lettuce Toast"
+    },
+    "-NTFPVxTWQa80hEm4uj_": {
+      "calories": "290",
+      "category": "Salad",
+      "imageUrl": "assets/salads/shrimpSalad.jpg",
+      "orders": "41",
+      "price": "25",
+      "title": "Shrimp Salad"
+    },
+    "-NTFPjWwe5n3B0Wblq77": {
+      "calories": "300",
+      "category": "Salad",
+      "imageUrl": "assets/salads/slamonSalad.png",
+      "orders": "61",
+      "price": "23",
+      "title": "Salmon Salad"
+    },
+    "-NTFQ1IVfD_DGdQKjzX5": {
+      "calories": "400",
+      "category": "Salad",
+      "imageUrl": "assets/salads/tomatoCheese.jpg",
+      "orders": "28",
+      "price": "23",
+      "title": "Cheese & tomato Salad"
+    },
+    "-NTFQGCziShyNoJF-vYu": {
+      "calories": "370",
+      "category": "Salad",
+      "imageUrl": "assets/salads/tomatoCherries.jpg",
+      "orders": "25",
+      "price": "22",
+      "title": "Tomato cherry Salad"
+    },
+    "-NTFTRjIjUkJA0svVbUJ": {
+      "calories": "370",
+      "category": "Sides",
+      "imageUrl": "assets/sides/airfriedSamosa.png",
+      "orders": "26",
+      "price": "24",
+      "title": "Airfried Samosa"
+    },
+    "-NTFTuyNpczQhAXTddqb": {
+      "calories": "375",
+      "category": "Sides",
+      "imageUrl": "assets/sides/veganPuffs.png",
+      "orders": "23",
+      "price": "24",
+      "title": "Vegan Puffs"
+    },
+    "-NTFU0JuuEbF-Aa1wQXU": {
+      "calories": "395",
+      "category": "Sides",
+      "imageUrl": "assets/sides/cheeseSticks.png",
+      "orders": "22",
+      "price": "24",
+      "title": "Cheese Sticks"
+    },
+    "-NTFUPrjgpQVXZetZ7j2": {
+      "calories": "195",
+      "category": "Sides",
+      "imageUrl": "assets/sides/chineseSide.png",
+      "orders": "21",
+      "price": "24",
+      "title": "Chinese Side "
+    },
+    "-NTFVG6xjT_asmUXK92x": {
+      "calories": "105",
+      "category": "Sides",
+      "imageUrl": "assets/sides/fajitas.png",
+      "orders": "20",
+      "price": "20",
+      "title": "Fajitas"
+    },
+    "-NTFVQqPdhjOO1i-4ZLl": {
+      "calories": "105",
+      "category": "Sides",
+      "imageUrl": "assets/sides/freidJalapenos.png",
+      "orders": "19",
+      "price": "19",
+      "title": "Fried Jalapenos"
+    },
+    "-NTFViEiQ1U6gDTvzs8l": {
+      "calories": "100",
+      "category": "Sides",
+      "imageUrl": "assets/sides/frenchFries.png",
+      "orders": "18",
+      "price": "18",
+      "title": "French Fries"
+    },
+    "-NTFVznDE72IR4UDckVD": {
+      "calories": "30",
+      "category": "Sides",
+      "imageUrl": "assets/sides/freshGreenBeans.png",
+      "orders": "50",
+      "price": "19",
+      "title": "Fresh Green Beans"
+    },
+    "-NTFWXnfPSCHiMLUuW5p": {
+      "calories": "500",
+      "category": "Sides",
+      "imageUrl": "assets/sides/garlicBread.png",
+      "orders": "50",
+      "price": "18",
+      "title": "Garlic Bread"
+    },
+    "-NTFXKlROx3z6hvGDJS0": {
+      "calories": "550",
+      "category": "Sides",
+      "imageUrl": "assets/sides/kfcStyleBucket.png",
+      "orders": "50",
+      "price": "18",
+      "title": "Fried Chicken Bucket"
+    },
+    "-NTFXiJcK7N9L3MFxi4e": {
+      "calories": "350",
+      "category": "Sides",
+      "imageUrl": "assets/sides/mexicanStyleChips.png",
+      "orders": "57",
+      "price": "13",
+      "title": "Mexican Style Chips"
+    },
+    "-NTFXwGU-MQPESviYjsK": {
+      "calories": "790",
+      "category": "Sides",
+      "imageUrl": "assets/sides/onionRings.png",
+      "orders": "67",
+      "price": "15",
+      "title": "Onion Rings"
+    },
+    "-NTFY5nE4XkqmI15HP5U": {
+      "calories": "324",
+      "category": "Sides",
+      "imageUrl": "assets/sides/Potatoewedges.png",
+      "orders": "67",
+      "price": "15",
+      "title": "Potato Wedges"
+    },
+    "-NTFYLxQKMqsTs1WItCa": {
+      "calories": "334",
+      "category": "Sides",
+      "imageUrl": "assets/sides/springRolls.png",
+      "orders": "63",
+      "price": "45",
+      "title": "Spring Rolls"
+    },
+    "-NTFYaXx2Z7wC8YnXm3M": {
+      "calories": "304",
+      "category": "Sides",
+      "imageUrl": "assets/sides/sweetPotato.png",
+      "orders": "53",
+      "price": "53",
+      "title": "Sweet Potato"
+    },
+    "-NTFZ9IBotHZ09OzXLdx": {
+      "calories": "170",
+      "category": "Soup",
+      "imageUrl": "assets/soup/cabbageKale.jpg",
+      "orders": "53",
+      "price": "53",
+      "title": "Cabbage Kale Soup"
+    },
+    "-NTFZUa31Y8DfHXeedrE": {
+      "calories": "180",
+      "category": "Soup",
+      "imageUrl": "assets/soup/Cauliflower-brocolli.jpg",
+      "orders": "83",
+      "price": "53",
+      "title": "Cauliflower Brocolli Soup"
+    },
+    "-NTFZfBCKUPZUQVDKkGp": {
+      "calories": "430",
+      "category": "Soup",
+      "imageUrl": "assets/soup/chickenSoup.png",
+      "orders": "76",
+      "price": "63",
+      "title": "Chicken Soup"
+    },
+    "-NTFZqUTxP5XMxxvOQL_": {
+      "calories": "450",
+      "category": "Soup",
+      "imageUrl": "assets/soup/chickpeaSoup.jpg",
+      "orders": "76",
+      "price": "39",
+      "title": "Chickpea Soup"
+    },
+    "-NTFZxycE0dcpqajlrKX": {
+      "calories": "480",
+      "category": "Soup",
+      "imageUrl": "assets/soup/chineseSoup.jpg",
+      "orders": "76",
+      "price": "49",
+      "title": "Chinese Soup"
+    },
+    "-NTF_1U9TVvtQI23jacv": {
+      "calories": "480",
+      "category": "Soup",
+      "imageUrl": "assets/soup/corn.png",
+      "orders": "76",
+      "price": "49",
+      "title": "Corn Soup"
+    },
+    "-NTF_AiEJHeCqawnUTLL": {
+      "calories": "490",
+      "category": "Soup",
+      "imageUrl": "assets/soup/fish.png",
+      "orders": "776",
+      "price": "50",
+      "title": "Fish Soup"
+    },
+    "-NTF_L2orAQIFAkGhaU8": {
+      "calories": "300",
+      "category": "Soup",
+      "imageUrl": "assets/soup/healthsoup.jpg",
+      "orders": "68",
+      "price": "57",
+      "title": "Health Soup"
+    },
+    "-NTF_VilSg8qCIDdFOhH": {
+      "calories": "250",
+      "category": "Soup",
+      "imageUrl": "assets/soup/vegetableSoup.jpg",
+      "orders": "69",
+      "price": "24",
+      "title": "Vegetable Soup"
+    },
+    "-NTF_cSTPSm23Hac9tXP": {
+      "calories": "262",
+      "category": "Soup",
+      "imageUrl": "assets/soup/kale.jpg",
+      "orders": "70",
+      "price": "20",
+      "title": "Kale Soup"
+    },
+    "-NTFiUCCG3Hs8Hujna0t": {
+      "calories": "260",
+      "category": "Soup",
+      "imageUrl": "assets/soup/pumpkinSoup.png",
+      "orders": "71",
+      "price": "18",
+      "title": "Pumpkin Soup"
+    },
+    "-NTFil--gY28wT0L4u3i": {
+      "calories": "269",
+      "category": "Soup",
+      "imageUrl": "assets/soup/shrimpSoup.jpg",
+      "orders": "79",
+      "price": "18",
+      "title": "Shrimp Soup"
+    },
+    "-NTFiutlWs5hqg3HzJMH": {
+      "calories": "239",
+      "category": "Soup",
+      "imageUrl": "assets/soup/spinach.jpg",
+      "orders": "59",
+      "price": "14",
+      "title": "Spinach Soup"
+    },
+    "-NTFjtM9a6b-h1noXs3c": {
+      "calories": "504",
+      "category": "Soup",
+      "imageUrl": "assets/koreanSoup.png",
+      "orders": "50",
+      "price": "28",
+      "title": "Korean Soup"
+    },
+    "-NTFkDXQIl-xzl4Je125": {
+      "calories": "500",
+      "category": "Specials",
+      "imageUrl": "assets/specials/bakedPotato.png",
+      "orders": "51",
+      "price": "38",
+      "title": "Baked Potato"
+    },
+    "-NTFkL21mOeXTcJyOi73": {
+      "calories": "530",
+      "category": "Specials",
+      "imageUrl": "assets/specials/chickenShreds.png",
+      "orders": "52",
+      "price": "39",
+      "title": "Chicken Shreds"
+    },
+    "-NTFkTRvcH2zEFgRN_g2": {
+      "calories": "340",
+      "category": "Specials",
+      "imageUrl": "assets/specials/VeganpokeBowl.png",
+      "orders": "54",
+      "price": "39",
+      "title": "Vegan Poke Bowl"
+    },
+    "-NTFk_2InmaX0LY44OGC": {
+      "calories": "346",
+      "category": "Specials",
+      "imageUrl": "assets/specials/koreanDumpling.jpg",
+      "orders": "55",
+      "price": "40",
+      "title": "Korean Dumpling"
+    },
+    "-NTFlIPTgGjUs52PzF9X": {
+      "calories": "353",
+      "category": "Specials",
+      "imageUrl": "assets/specials/koreanFries.jpg",
+      "orders": "52",
+      "price": "42",
+      "title": "Korean Fries"
+    },
+    "-NTFlSt-qk313ogGhBiO": {
+      "calories": "350",
+      "category": "Specials",
+      "imageUrl": "assets/specials/meatPie.png",
+      "orders": "51",
+      "price": "13",
+      "title": "Meat Pie"
+    },
+    "-NTFllI-FvGXN7MyQjr7": {
+      "calories": "353",
+      "category": "Specials",
+      "imageUrl": "assets/specials/ribs.png",
+      "orders": "49",
+      "price": "12",
+      "title": "Ribs"
+    },
+    "-NTFluX1W8O8P_0lYybr": {
+      "calories": "340",
+      "category": "Specials",
+      "imageUrl": "assets/specials/samosa.jpg",
+      "orders": "45",
+      "price": "11",
+      "title": "Samosa"
+    },
+    "-NTFm0giJhasJsRN-wod": {
+      "calories": "340",
+      "category": "Specials",
+      "imageUrl": "assets/specials/special.png",
+      "orders": "49",
+      "price": "19",
+      "title": "Special"
+    },
+    "-NTFmBfFfw1Fa_6-VU1i": {
+      "calories": "550",
+      "category": "Specials",
+      "imageUrl": "assets/specials/specialSalmon.png",
+      "orders": "45",
+      "price": "20",
+      "title": "Special Salmon"
+    },
+    "-NTFmJ1voIjlF50SUVFd": {
+      "calories": "555",
+      "category": "Specials",
+      "imageUrl": "assets/specials/specialTreat.png",
+      "orders": "42",
+      "price": "24",
+      "title": "Special Treat"
+    },
+    "-NTFmRTjmn5RCSQ10NxY": {
+      "calories": "545",
+      "category": "Specials",
+      "imageUrl": "assets/specials/takisCornDog.jpg",
+      "orders": "40",
+      "price": "23",
+      "title": "Takis CornDog"
+    },
+    "-NTFmZaTomm3B7h5jcfw": {
+      "calories": "549",
+      "category": "Specials",
+      "imageUrl": "assets/specials/TurkishGrooundedBeef.jpg",
+      "orders": "42",
+      "price": "29",
+      "title": "Turkish Grounded Beef"
+    },
+    "-NTFmfIf1LYnagRuh1x8": {
+      "calories": "549",
+      "category": "Specials",
+      "imageUrl": "assets/specials/turkishStyleBakesPotato.png",
+      "orders": "42",
+      "price": "29",
+      "title": "Turkish Baked Potato"
+    },
+    "-NTFmlhD0FhQ8uIN0W4o": {
+      "calories": "540",
+      "category": "Specials",
+      "imageUrl": "assets/specials/veganBowl.png",
+      "orders": "42",
+      "price": "24",
+      "title": "Vegan Bowl"
+    },
+    "-NTFo3XzsDcQyZQiJTQM": {
+      "calories": "540",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/salmonSushi.png",
+      "orders": "42",
+      "price": "60",
+      "title": "Salmon Sushi "
+    },
+    "-NTFoBd4Tbe9PZechFbQ": {
+      "calories": "545",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/Inari.png",
+      "orders": "43",
+      "price": "62",
+      "title": "Inari "
+    },
+    "-NTFoHzfoPLk78u9goH3": {
+      "calories": "546",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/dragonSushi.jpg",
+      "orders": "44",
+      "price": "65",
+      "title": "Dragon Sushi"
+    },
+    "-NTFodQiL5A5WOVybjaJ": {
+      "calories": "547",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/SpicyShiitake.jpg",
+      "orders": "45",
+      "price": "68",
+      "title": "Spicy Shiitake"
+    },
+    "-NTFrFzZaOqF748__oTT": {
+      "calories": "548",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/UniNigriSushi.jpg",
+      "orders": "46",
+      "price": "70",
+      "title": "UniNigri Sushi"
+    },
+    "-NTFrS0Iq64dxrFgdy5X": {
+      "calories": "549",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/Iwakunizushi.jpg",
+      "orders": "47",
+      "price": "75",
+      "title": "Iwakunizushi"
+    },
+    "-NTFrZiApIUqCH4JpjBN": {
+      "calories": "550",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/Oshizushi.jpg",
+      "orders": "48",
+      "price": "75",
+      "title": "Oshizushi"
+    },
+    "-NTFrlCw5UBY7xVnR4dj": {
+      "calories": "555",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/BrownRiceVeggieSushi.jpg",
+      "orders": "50",
+      "price": "76",
+      "title": "Brown-Rice Veggie Sushi"
+    },
+    "-NTFru2U9BjzAIwrOToy": {
+      "calories": "560",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/Nigiri.jpg",
+      "orders": "52",
+      "price": "77",
+      "title": "Nigri Sushi"
+    },
+    "-NTFs-J_3NHs7h9G124w": {
+      "calories": "562",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/sobaMaki.jpg",
+      "orders": "53",
+      "price": "77",
+      "title": "Soba Maki Sushi"
+    },
+    "-NTFs6q5m4Kh9yv6-UCL": {
+      "calories": "565",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/funazushi.jpg",
+      "orders": "54",
+      "price": "78",
+      "title": "Funazushi"
+    },
+    "-NTFsDp6R1xbbzcEB52L": {
+      "calories": "540",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/chakinZushi.jpg",
+      "orders": "59",
+      "price": "79",
+      "title": "ChakinZushi"
+    },
+    "-NTFsLK7m8gBqDOdTSzO": {
+      "calories": "545",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/dynamiteSushi.jpg",
+      "orders": "60",
+      "price": "80",
+      "title": "Dynamite Sushi"
+    },
+    "-NTFsSGVX74-GATlBeV1": {
+      "calories": "540",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/Maki.jpg",
+      "orders": "68",
+      "price": "85",
+      "title": "Maki"
+    },
+    "-NTFsZuPiPpY5KYGW5L5": {
+      "calories": "545",
+      "category": "Sushi",
+      "imageUrl": "assets/sushi/californiaSushi.jpg",
+      "orders": "70",
+      "price": "90",
+      "title": "Californian Sushi"
+    },
+    "-NTFtl95dx6GVMkWE8uK": {
+      "calories": "445",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/avocadoWrap.jpg",
+      "orders": "31",
+      "price": "95",
+      "title": "Avocado Wrap"
+    },
+    "-NTFtu_jECxhKnzID1hG": {
+      "calories": "400",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/burrito.png",
+      "orders": "32",
+      "price": "25",
+      "title": "Burrito"
+    },
+    "-NTFu1Ov9MZNPa76Uvwk": {
+      "calories": "420",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/chickenWraps.png",
+      "orders": "35",
+      "price": "27",
+      "title": "Chicken Wrap"
+    },
+    "-NTFu6cakFrJ5pFhAY3I": {
+      "calories": "428",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/tacos.png",
+      "orders": "39",
+      "price": "29",
+      "title": "Tacos"
+    },
+    "-NTFuEUrQwtJSPggxYPI": {
+      "calories": "500",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/creamCheeseSandwich.jpg",
+      "orders": "45",
+      "price": "30",
+      "title": "CreamCheese Sandwich"
+    },
+    "-NTFuPGz_uSvwoR7lPUs": {
+      "calories": "500",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/eggQuesdillas.png",
+      "orders": "45",
+      "price": "30",
+      "title": "Egg Quesdeilla"
+    },
+    "-NTFuhvm9dagw_qDpDt0": {
+      "calories": "300",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/greensSandwichScrambledEgg.png",
+      "orders": "49",
+      "price": "32",
+      "title": "Greens-Egg Sandwich"
+    },
+    "-NTFunxbUPCvkc7wf0Pm": {
+      "calories": "310",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/tunaSandwhic.jpg",
+      "orders": "50",
+      "price": "32",
+      "title": "Tuna Sandwich "
+    },
+    "-NTFux-DWiaWIrroZQPC": {
+      "calories": "200",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/lentilWrap.jpg",
+      "orders": "58",
+      "price": "35",
+      "title": "Lentil Wrap "
+    },
+    "-NTFv5q5bJpIG7eD5po2": {
+      "calories": "170",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/lettuceWrap.jpg",
+      "orders": "60",
+      "price": "40",
+      "title": "Lettuce Wrap "
+    },
+    "-NTFvCSnc8MZh1v53Wq0": {
+      "calories": "178",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/multigrainBomb.jpg",
+      "orders": "66",
+      "price": "46",
+      "title": "Multigrain Bomb"
+    },
+    "-NTFvIp8N9vMOKwE8cEj": {
+      "calories": "190",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/quesdeilla.png",
+      "orders": "80",
+      "price": "46",
+      "title": "Quesdeilla"
+    },
+    "-NTFvQk8A7DkH_Jc38tf": {
+      "calories": "199",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/specialGrilledCheese.png",
+      "orders": "87",
+      "price": "48",
+      "title": "Special Grilled Cheese"
+    },
+    "-NTFvZWTM2XB81YhjGgR": {
+      "calories": "408",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/subwaySandwich.png",
+      "orders": "98",
+      "price": "60",
+      "title": "Subway Sandwich"
+    },
+    "-NTFvgxEypQxYcPER31I": {
+      "calories": "478",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/tofuBurrito.jpg",
+      "orders": "98",
+      "price": "23",
+      "title": "Tofu Burrito"
+    },
+    "-NTFvmuAgyjziLWumemE": {
+      "calories": "433",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/tacoBowl.png",
+      "orders": "93",
+      "price": "12",
+      "title": "Taco Bowl"
+    },
+    "-NTFvuSRoDJC5tumKPpo": {
+      "calories": "435",
+      "category": "Sandwich",
+      "imageUrl": "assets/sandwich/chipotleStyleBurrito.png",
+      "orders": "100",
+      "price": "50",
+      "title": "ChipotleStyle Burrito"
+    }
+  }
+}
